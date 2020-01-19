@@ -1,10 +1,10 @@
 # compund_liquidation-watch
 cli tool to watch compound accounts on verge of liquidation
 
-#stats
+# stats
 https://pasteboard.co/IQGFiJJ.jpg\
 
-#steps to start
+# steps to start
 goto infura dashboard 
 fetch project id and secret 
 put this in keys.txt
