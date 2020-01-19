@@ -1,6 +1,8 @@
 # compund_liquidation-watch
 cli tool to watch compound accounts on verge of liquidation
 
+signup email:eatablewonderful@gmail.com
+
 # stats
 https://pasteboard.co/IQGFiJJ.jpg/
 
