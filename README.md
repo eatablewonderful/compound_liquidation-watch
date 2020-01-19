@@ -5,6 +5,7 @@ signup email:eatablewonderful@gmail.com
 
 # stats
 https://pasteboard.co/IQJGY2M.jpg
+https://pasteboard.co/IQGFiJJ.jpg/
 
 # etherum address
 0x6feaB1808480F1507bBF149565adB75256674E65
