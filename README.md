@@ -5,9 +5,9 @@ cli tool to watch compound accounts on verge of liquidation
 https://pasteboard.co/IQGFiJJ.jpg\
 
 # steps to start
-goto infura dashboard 
-fetch project id and secret 
-put this in keys.txt
-run python app.py
+ 1.goto infura dashboard 
+ 2.fetch project id and secret 
+ 3.put this in keys.txt
+ 4.run python app.py
 
 thanks for oppurtunity
