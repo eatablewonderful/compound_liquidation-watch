@@ -4,7 +4,7 @@ cli tool to watch compound accounts on verge of liquidation
 signup email:eatablewonderful@gmail.com
 
 # stats
-https://pasteboard.co/IQGFiJJ.jpg/
+https://pasteboard.co/IQJGY2M.jpg
 
 # etherum address
 0x6feaB1808480F1507bBF149565adB75256674E65
