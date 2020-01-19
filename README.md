@@ -2,7 +2,7 @@
 cli tool to watch compound accounts on verge of liquidation
 
 # stats
-https://pasteboard.co/IQGFiJJ.jpg\
+https://pasteboard.co/IQGFiJJ.jpg/
 
 # steps to start
  1.goto infura dashboard 
