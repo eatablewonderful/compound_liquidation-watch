@@ -1,4 +1,4 @@
-# compund_liquidation-watch
+# compound_liquidation-watch
 cli tool to watch compound accounts on verge of liquidation
 
 signup email:eatablewonderful@gmail.com
